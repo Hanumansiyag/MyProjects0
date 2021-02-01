@@ -1,0 +1,32 @@
+.parallax {
+    /* The image used */
+    background-image: url('12.jpg');
+  
+    /* Full height */
+    height: 400px; 
+  
+    /* Create the parallax scrolling effect */
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: #ffffff;
+    font-size: 30px;
+  }
+  
+  .parallax1 {
+    /* The image used */
+    background-image: url('12.jpg');
+  
+    /* Full height */
+    height: 100vh; 
+  
+    /* Create the parallax scrolling effect */
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    font-size: 22px;
+    color: #ffffff;
+  }
+  
