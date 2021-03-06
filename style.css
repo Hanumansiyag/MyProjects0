@@ -29,4 +29,17 @@
     font-size: 22px;
     color: #ffffff;
   }
+.heading{
+    color: black;
+    font-weight: bold;
+    text-align: center;
+  }
+  .subheading{
+    color: red;
+    font-weight: bold;
+    text-align: center;
+  }
+  button{
+    margin-left: 42%;
+  }
   
